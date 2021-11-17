@@ -1,0 +1,13 @@
+C:\Users\84961\source\repos\btn\btn\bin\Debug\netcoreapp3.1\btn.exe
+C:\Users\84961\source\repos\btn\btn\bin\Debug\netcoreapp3.1\btn.deps.json
+C:\Users\84961\source\repos\btn\btn\bin\Debug\netcoreapp3.1\btn.runtimeconfig.json
+C:\Users\84961\source\repos\btn\btn\bin\Debug\netcoreapp3.1\btn.runtimeconfig.dev.json
+C:\Users\84961\source\repos\btn\btn\bin\Debug\netcoreapp3.1\btn.dll
+C:\Users\84961\source\repos\btn\btn\bin\Debug\netcoreapp3.1\btn.pdb
+C:\Users\84961\source\repos\btn\btn\obj\Debug\netcoreapp3.1\btn.csprojAssemblyReference.cache
+C:\Users\84961\source\repos\btn\btn\obj\Debug\netcoreapp3.1\btn.AssemblyInfoInputs.cache
+C:\Users\84961\source\repos\btn\btn\obj\Debug\netcoreapp3.1\btn.AssemblyInfo.cs
+C:\Users\84961\source\repos\btn\btn\obj\Debug\netcoreapp3.1\btn.csproj.CoreCompileInputs.cache
+C:\Users\84961\source\repos\btn\btn\obj\Debug\netcoreapp3.1\btn.dll
+C:\Users\84961\source\repos\btn\btn\obj\Debug\netcoreapp3.1\btn.pdb
+C:\Users\84961\source\repos\btn\btn\obj\Debug\netcoreapp3.1\btn.genruntimeconfig.cache
